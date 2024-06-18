@@ -32,3 +32,11 @@ To get started with this project, follow these steps:
    ```sh
    git clone https://github.com/OmkarKalvitkar/Drone-Detection-In-Survillance-Videos-.git
    cd Drone-Detection-In-Survillance-Videos-
+Install Dependencies:
+
+sh
+Copy code
+pip install -r requirements.txt
+Download the YOLOv5 Model:
+
+Download the pre-trained YOLOv5 model from this link and place it in the project directory.
