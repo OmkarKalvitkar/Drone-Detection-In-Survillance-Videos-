@@ -36,8 +36,8 @@ To get started with this project, follow these steps:
 
 sh
 Copy code
-pip install -r requirements.txt
-Download the YOLOv5 Model:
+    pip install -r requirements.txt
+    Download the YOLOv5 Model:
 
 Download the pre-trained YOLOv5 model from this link and place it in the project directory.
 Usage
